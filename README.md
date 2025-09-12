@@ -2,4 +2,4 @@
 
 # Special Ops
 
-Perpetual options built on Uniswap V4
+Perpetual options built on Uniswap V4, using Fhenix and Eigenlayer

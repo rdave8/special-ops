@@ -1,5 +1,5 @@
 ##### Uniswap Hook Incubator Cohort 6 Hookathon
 
-# Special Ops
+# Wishbone
 
-Perpetual options built on Uniswap V4, using Fhenix and Eigenlayer
+Binary prediction markets built on Uniswap V4
